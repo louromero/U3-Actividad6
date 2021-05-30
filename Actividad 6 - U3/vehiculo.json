@@ -1,0 +1,42 @@
+{
+    "__clas__": "lista",
+    "autos": [
+        {
+            "__class__": "AutoUsado",
+            "__atributos__": {
+                "modelo": "palio",
+                "puertas": 2,
+                "color": "rojo",
+                "precioB": 20000,
+                "marca": "fiat",
+                "patente": "5kl",
+                "anio": 1999,
+                "kilometraje": 800
+            }
+        },
+        {
+            "__class__": "AutoNuevo",
+            "__atributos__": {
+                "modelo": "hilux",
+                "puertas": 4,
+                "color": "gris",
+                "precioB": 800000,
+                "marca": "Toyota",
+                "version": "full"
+            }
+        },
+        {
+            "__class__": "AutoUsado",
+            "__atributos__": {
+                "modelo": "fiesta",
+                "puertas": 4,
+                "color": "amarillo",
+                "precioB": 50000.0,
+                "marca": "ford",
+                "patente": "4jk",
+                "anio": 2005,
+                "kilometraje": 2500
+            }
+        }
+    ]
+}
